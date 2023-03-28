@@ -1,1 +1,5 @@
 hi, what you doing?
+
+Today is 28th of March, Tuesday,2023
+
+This daya seems perfect to learn git !! 
